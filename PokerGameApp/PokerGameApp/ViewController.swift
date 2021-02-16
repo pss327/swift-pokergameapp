@@ -18,6 +18,9 @@
             createCardView()
             self.view.addSubview(stackView)
             setStackViewContraints()
+            
+            let cardPrint = Card(rank: .seven, suit: .clubs)
+            print(cardPrint)
         }
         
         override var preferredStatusBarStyle: UIStatusBarStyle {

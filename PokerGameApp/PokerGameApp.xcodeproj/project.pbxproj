@@ -15,6 +15,7 @@
 		FE7FF10325DA531E005FD4CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE7FF10125DA531E005FD4CC /* LaunchScreen.storyboard */; };
 		FE7FF10E25DA531E005FD4CC /* PokerGameAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE7FF10D25DA531E005FD4CC /* PokerGameAppTests.swift */; };
 		FE7FF11925DA531E005FD4CC /* PokerGameAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE7FF11825DA531E005FD4CC /* PokerGameAppUITests.swift */; };
+		FE8B8B7625DC0BEB00EF304F /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE8B8B7525DC0BEB00EF304F /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FE7FF11425DA531E005FD4CC /* PokerGameAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokerGameAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE7FF11825DA531E005FD4CC /* PokerGameAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokerGameAppUITests.swift; sourceTree = "<group>"; };
 		FE7FF11A25DA531E005FD4CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE8B8B7525DC0BEB00EF304F /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FE7FF0F625DA531B005FD4CC /* AppDelegate.swift */,
 				FE7FF0F825DA531B005FD4CC /* SceneDelegate.swift */,
 				FE7FF0FA25DA531B005FD4CC /* ViewController.swift */,
+				FE8B8B7525DC0BEB00EF304F /* Card.swift */,
 				FE7FF0FC25DA531B005FD4CC /* Main.storyboard */,
 				FE7FF0FF25DA531E005FD4CC /* Assets.xcassets */,
 				FE7FF10125DA531E005FD4CC /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				FE7FF0FB25DA531B005FD4CC /* ViewController.swift in Sources */,
 				FE7FF0F725DA531B005FD4CC /* AppDelegate.swift in Sources */,
 				FE7FF0F925DA531B005FD4CC /* SceneDelegate.swift in Sources */,
+				FE8B8B7625DC0BEB00EF304F /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
